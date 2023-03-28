@@ -1,4 +1,4 @@
-import { classNames } from "../utils/string";
+import { classNames } from "../../utils/string";
 import { overrideTailwindClasses } from "tailwind-override";
 
 export interface ButtonProps
